@@ -11,3 +11,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - bqplot
+  - traitlets
+  - ipywidgets
+  - PIL.Image
+  
